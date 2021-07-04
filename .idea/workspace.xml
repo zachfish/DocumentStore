@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e2abbae-9ad7-4c25-bda6-1fbb942cd022" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/myPDF" beforeDir="false" afterPath="$PROJECT_DIR$/../stage3/myPDF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/src/main/java/edu/yu/cs/com1320/project/stage3/impl/DocumentImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage3/src/main/java/edu/yu/cs/com1320/project/stage3/impl/DocumentImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/src/main/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage3/src/main/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/Impl/CommandSetUndo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/Impl/HashTableImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/Impl/StackImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/Impl/TrieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/Impl/TrieTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/Impl/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/Impl/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/HashTableAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/HashTableAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/StackAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/StackAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/UndoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage3/src/test/java/edu/yu/cs/com1320/project/stage3/impl/UndoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/myPDF" beforeDir="false" afterPath="$PROJECT_DIR$/../stage4/myPDF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/main/java/edu/yu/cs/com1320/project/stage4/Impl/DocumentStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage4/src/main/java/edu/yu/cs/com1320/project/stage4/Impl/DocumentStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/CommandSetUndo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/DocumentAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/DocumentAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/DocumentImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/DocumentImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/DocumentStoreAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/DocumentStoreAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/DocumentStoreImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/DocumentStoreImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/HashTableAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/HashTableAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/HashTableImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/MinHeapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/StackAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/StackAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/StackImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/TrieTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/UndoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/Impl/UndoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myPDF" beforeDir="false" afterPath="$PROJECT_DIR$/myPDF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage5/impl/DocumentPersistenceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage5/impl/DocumentPersistenceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage5/impl/Stage5Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage5/impl/Stage5Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroToAlgorithms/assignments/SearchWithATweak/src/main/java/edu/yu/introtoalgs/SearchWithATweak.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroToAlgorithms/assignments/SearchWithATweak/src/main/java/edu/yu/introtoalgs/SearchWithATweak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroToAlgorithms/assignments/SearchWithATweak/src/test/java/edu/yu/introtoalgs/SearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroToAlgorithms/assignments/SearchWithATweak/src/test/java/edu/yu/introtoalgs/SearchTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bXyTx0nDwfmszGZcCSRe8NKBDQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="JUnit.DocumentImplTest">
+    <configuration name="DocumentImplTest" type="JUnit" factoryName="JUnit">
+      <module name="stage5" />
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentImplTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreAPITest" type="JUnit" factoryName="JUnit">
+      <module name="stage5" />
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreAPITest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreImplTest" type="JUnit" factoryName="JUnit">
+      <module name="stage5" />
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stage5Tests" type="JUnit" factoryName="JUnit">
+      <module name="stage5" />
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.Stage5Tests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UndoTest" type="JUnit" factoryName="JUnit">
+      <module name="stage5" />
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.UndoTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DocumentStoreImplTest" />
+      <item itemvalue="JUnit.Stage5Tests" />
+      <item itemvalue="JUnit.DocumentImplTest" />
+      <item itemvalue="JUnit.UndoTest" />
+      <item itemvalue="JUnit.DocumentStoreAPITest" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e2abbae-9ad7-4c25-bda6-1fbb942cd022" name="Default Changelist" comment="" />
+      <created>1588792744773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588792744773</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1814" y="242" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590355842622">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1814" y="242" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590355842622" />
+    <state x="83" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590310587692" />
+    <state x="556" y="191" key="#com.intellij.ide.util.MemberChooser" timestamp="1590347493036">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="556" y="191" key="#com.intellij.ide.util.MemberChooser/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590347493036" />
+    <state x="-1302" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590355841934">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1302" y="293" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590355841934" />
+    <state x="483" y="270" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590310584962" />
+    <state x="543" y="340" width="415" height="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590420223121">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="543" y="340" width="415" height="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590420223121" />
+    <state x="531" y="236" key="FileChooserDialogImpl" timestamp="1598760660139">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="-1240" y="256" key="FileChooserDialogImpl/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590419355829" />
+    <state x="531" y="236" key="FileChooserDialogImpl/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590502223777" />
+    <state x="531" y="236" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1598760660139" />
+    <state width="1458" height="20" key="GridCell.Tab.0.bottom" timestamp="1598762362433">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1877" height="129" key="GridCell.Tab.0.bottom/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590355822829" />
+    <state width="1458" height="316" key="GridCell.Tab.0.bottom/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590417211816" />
+    <state width="1458" height="20" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1598762362433" />
+    <state width="1458" height="20" key="GridCell.Tab.0.center" timestamp="1598762362433">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1877" height="129" key="GridCell.Tab.0.center/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590355822828" />
+    <state width="1458" height="316" key="GridCell.Tab.0.center/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590417211816" />
+    <state width="1458" height="20" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1598762362433" />
+    <state width="1458" height="20" key="GridCell.Tab.0.left" timestamp="1598762362433">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1877" height="129" key="GridCell.Tab.0.left/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590355822828" />
+    <state width="1458" height="316" key="GridCell.Tab.0.left/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590417211815" />
+    <state width="1458" height="20" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1598762362433" />
+    <state width="1458" height="20" key="GridCell.Tab.0.right" timestamp="1598762362433">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1877" height="129" key="GridCell.Tab.0.right/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590355822828" />
+    <state width="1458" height="316" key="GridCell.Tab.0.right/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590417211816" />
+    <state width="1458" height="20" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1598762362433" />
+    <state width="1458" height="316" key="GridCell.Tab.1.bottom" timestamp="1590417211816">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="316" key="GridCell.Tab.1.bottom/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590417211816" />
+    <state width="1458" height="316" key="GridCell.Tab.1.center" timestamp="1590417211816">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="316" key="GridCell.Tab.1.center/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590417211816" />
+    <state width="1458" height="316" key="GridCell.Tab.1.left" timestamp="1590417211816">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="316" key="GridCell.Tab.1.left/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590417211816" />
+    <state width="1458" height="316" key="GridCell.Tab.1.right" timestamp="1590417211816">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="316" key="GridCell.Tab.1.right/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590417211816" />
+    <state x="231" y="56" key="SettingsEditor" timestamp="1598759818667">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="231" y="56" key="SettingsEditor/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590428704535" />
+    <state x="231" y="56" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1598759818667" />
+    <state x="443" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1598759479638">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="-1353" y="332" key="com.intellij.ide.util.TipDialog/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590419306956" />
+    <state x="443" y="306" key="com.intellij.ide.util.TipDialog/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590286609140" />
+    <state x="443" y="306" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1598759479638" />
+    <state x="175" y="177" key="new project wizard" timestamp="1598760661327">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="175" y="177" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1598760661327" />
+    <state x="409" y="222" key="run.anything.popup" timestamp="1590186269830">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="409" y="222" key="run.anything.popup/0.0.1500.960/-1920.0.1920.1040@0.0.1500.960" timestamp="1590186269830" />
+    <state x="416" y="209" width="673" height="679" key="search.everywhere.popup" timestamp="1598759755366">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="-1391" y="223" width="861" height="735" key="search.everywhere.popup/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590351609176" />
+    <state x="416" y="209" width="673" height="679" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1598759755366" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImpl.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage5/impl/DocumentPersistenceManager.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
